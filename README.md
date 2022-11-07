@@ -4,8 +4,7 @@ Technology used for this project:
 <br/>
 **Java** is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 <br/>
-**NetBeans** i
-<br/>s an integrated development environment for Java.
+**NetBeans** is an integrated development environment for Java.
 <br/>
 
 ### Run Apps
